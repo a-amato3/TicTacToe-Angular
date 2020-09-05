@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-project-1579718334291": {
+      "hosting": {
+        "tic-tac-toe": [
+          "my-project-1579718334291"
+        ]
+      }
+    }
+  }
+}
